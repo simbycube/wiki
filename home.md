@@ -4,4 +4,4 @@
 # Discord Server
 ![Discord Logo Wordmark Wnc](/uploads/discord-logo-wordmark-wnc.png "Discord Logo Wordmark Wnc")
 il link per raggiungerci su Discord è:  https://discord.gg/yj73YdU
-![tattiche-anti-flag-boss]
+![tattiche-anti-flag-boss](tattiche-anti-flag-boss)
