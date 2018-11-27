@@ -6,4 +6,4 @@
 il link per raggiungerci su Discord è:  https://discord.gg/yj73YdU
 
 # sezioni
-[Link Text](/cominciare-bene)
+[Cominciare bene](/cominciare-bene)
