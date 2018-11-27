@@ -1,4 +1,4 @@
-<!-- TITLE: Tattica Larzhul -->
+<!-- TITLE: Tattica B: Larzhul -->
 <!-- SUBTITLE: La pagina dedicata al boss di Z6F9 -->
 
 # Header
