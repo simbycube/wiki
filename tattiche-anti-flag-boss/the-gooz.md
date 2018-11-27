@@ -1,4 +1,4 @@
-<!-- TITLE: Tattica The Gooz -->
+<!-- TITLE: Tattica C: The Gooz -->
 <!-- SUBTITLE: La pagina dedicata al boss di Z7F5 -->
 
 # Header
