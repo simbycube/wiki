@@ -1,4 +1,4 @@
-<!-- TITLE: Chewy -->
+<!-- TITLE: Tattica Chewy -->
 <!-- SUBTITLE: La pagina dedicata al boss di Z6F6 -->
 
 # Header
