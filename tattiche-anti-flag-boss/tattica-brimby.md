@@ -1,4 +1,4 @@
-<!-- TITLE: Tattica Brimby -->
+<!-- TITLE: Tattica D: Brimby -->
 <!-- SUBTITLE: La pagina dedicata al boss di Z7F8 -->
 
 # Header
