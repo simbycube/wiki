@@ -1,4 +1,4 @@
-<!-- TITLE: TEST -->
+<!-- TITLE: Bita Wiki -->
 <!-- SUBTITLE: Pagina Generale -->
 
-# Header
+# Discord Server
