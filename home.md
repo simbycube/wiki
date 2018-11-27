@@ -7,3 +7,5 @@ il link per raggiungerci su Discord è:  https://discord.gg/yj73YdU
 
 # sezioni
 [Cominciare bene](/cominciare-bene)
+[La Via del Tank]
+[tattiche anti flag boss](/tattiche-anti-flag-boss)
