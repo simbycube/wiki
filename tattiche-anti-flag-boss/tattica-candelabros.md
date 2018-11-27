@@ -1,4 +1,4 @@
-<!-- TITLE: Tattica Candelabros -->
+<!-- TITLE: Tattica F: Candelabros -->
 <!-- SUBTITLE: La pagina dedicata al boss di Z8F8 -->
 
 # Header
